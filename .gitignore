@@ -1,0 +1,27 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/workspace.xml
+microservicecloud-api/src/test/
+microservicecloud-api/target/
+microservicecloud-consumer-dept-80/src/test/
+microservicecloud-consumer-dept-80/target/
+microservicecloud-consumer-dept-feign/src/test/
+microservicecloud-consumer-dept-feign/target/
+microservicecloud-consumer-hystrix-dashboard/src/test/
+microservicecloud-consumer-hystrix-dashboard/target/
+microservicecloud-eureka-7001/src/test/
+microservicecloud-eureka-7001/target/
+microservicecloud-eureka-7002/src/test/
+microservicecloud-eureka-7002/target/
+microservicecloud-eureka-7003/src/test/
+microservicecloud-eureka-7003/target/
+microservicecloud-provider-dept-8001/src/test/
+microservicecloud-provider-dept-8001/target/
+microservicecloud-provider-dept-8002/src/test/
+microservicecloud-provider-dept-8002/target/
+microservicecloud-provider-dept-8003/src/test/
+microservicecloud-provider-dept-8003/target/
+microservicecloud-provider-dept-hystrix-8001/src/test/
+microservicecloud-provider-dept-hystrix-8001/target/
+microservicecloud-zuul-gateway-9527/src/test/
+microservicecloud-zuul-gateway-9527/target/
